@@ -1,0 +1,5 @@
+{
+    "sonarlint.ls.javaHome": "C:\\Program Files\\Java\\jdk1.8.0_181",
+    "python.jediEnabled": true,
+    "python.languageServer": "Jedi",
+}
